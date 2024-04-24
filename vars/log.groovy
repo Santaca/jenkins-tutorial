@@ -1,2 +1,3 @@
-def log(message):
+def log(message) {
     echo "Hola mundo"
+}
