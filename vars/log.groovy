@@ -1,3 +1,3 @@
-def log(message) {
-    echo "Hola mundo"
+def hello   (String message) {
+    echo "${message}"
 }
